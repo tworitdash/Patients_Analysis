@@ -13,6 +13,6 @@ for line in sys.stdin:
     count += 1
 
 
-print(count, "Lines in standard input")
+print(count, "Total lines in standard input")
 
 
